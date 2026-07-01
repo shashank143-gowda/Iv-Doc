@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "paLLP1lZEyg=",
+  "success": true,
+  "projectFilePath": "C:\\iv-docs-feature-backend\\backend\\src\\IVDoc.Infrastructure\\IVDoc.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\10.7.0\\microsoft.extensions.ambientmetadata.application.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.7.0\\microsoft.extensions.compliance.abstractions.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\10.7.0\\microsoft.extensions.dependencyinjection.autoactivation.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.diagnostics.exceptionsummarization\\10.7.0\\microsoft.extensions.diagnostics.exceptionsummarization.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.http.diagnostics\\10.7.0\\microsoft.extensions.http.diagnostics.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.http.resilience\\10.7.0\\microsoft.extensions.http.resilience.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.resilience\\10.7.0\\microsoft.extensions.resilience.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.telemetry\\10.7.0\\microsoft.extensions.telemetry.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\10.7.0\\microsoft.extensions.telemetry.abstractions.10.7.0.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\polly.core\\8.4.2\\polly.core.8.4.2.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\polly.extensions\\8.4.2\\polly.extensions.8.4.2.nupkg.sha512",
+    "C:\\Users\\Shashank\\.nuget\\packages\\polly.ratelimiting\\8.4.2\\polly.ratelimiting.8.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

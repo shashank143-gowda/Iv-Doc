@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IVDoc.Api/IVDoc.Api.csproj" />
+    <Project Path="src/IVDoc.Application/IVDoc.Application.csproj" />
+    <Project Path="src/IVDoc.Domain/IVDoc.Domain.csproj" />
+    <Project Path="src/IVDoc.Infrastructure/IVDoc.Infrastructure.csproj" />
+    <Project Path="src/IVDoc.Worker/IVDoc.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IVDoc.Tests/IVDoc.Tests.csproj" />
+  </Folder>
+</Solution>
